@@ -14,3 +14,13 @@ C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C,2000,rat,CompTox
 [Tl+].[Tl+].[O-]S([O-])(=O)=O,8,rat,CompTox
 CCCCC(CC)CO,2000,rat,CompTox
 C(CBr)Br,117,rat,CompTox
+OC1=CC=CC=C1,317,rat,CompTox
+[Na+].[C-]#N,8,rat,CompTox
+[Cl-].[Cl-].[Hg++],41,rat,CompTox
+[O-][As]([O-])[O-],20,rat,CompTox
+[F-].[Na+],52,rat,CompTox
+ClC(Cl)Cl,908,rat,CompTox
+ClC(Cl)(Cl)Cl,2350,rat,CompTox
+CO,5628,rat,CompTox
+C=O,100,rat,CompTox
+CC(C)=O,5800,rat,CompTox
