@@ -1,4 +1,4 @@
-SMILES,LD50_mg_kg,species,source
+SMILES,LD50_mg_kg_oral,species,source
 O,90000,rat,CompTox
 C1=CC=CC=C1,930,rat,CompTox
 CC1=CC=CC=C1,5580,rat,CompTox
@@ -24,3 +24,18 @@ ClC(Cl)(Cl)Cl,2350,rat,CompTox
 CO,5628,rat,CompTox
 C=O,100,rat,CompTox
 CC(C)=O,5800,rat,CompTox
+OO,2000,rat,CompTox
+OC(=O)CNCP(O)(O)=O,5000,rat,CompTox
+CN1CCCC1C1=CN=CC=C1,50,rat,CompTox
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C,367,rat,CompTox
+CCNC1=NC(NC(C)C)=NC(Cl)=N1,3090,rat,CompTox
+Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,88,rat,CompTox
+ClCC=C,450,rat,CompToxClCCl
+ClCCl,1200,rat,CompTox
+OCCO,4000,rat,CompTox
+NC1=CC=C(C=C1)C1=CC=C(N)C=C1,309,rat,CompTox
+C1=CC2=C(C=C1)C1=C(C=CC=C1)C=C2,700,rat,CompTox
+C1=CC=C2C(=C1)C=C1C=CC3=CC=CC4=CC=C2C1=C34,50,rat,CompTox
+ClC(Cl)=O,5580,rat,CompTox
+C=CC=O,46,rat,CompTox
+[Na+].[N-]=[N+]=[N-],27,rat,CompTox
