@@ -39,3 +39,13 @@ C1=CC=C2C(=C1)C=C1C=CC3=CC=CC4=CC=C2C1=C34,50,rat,CompTox
 ClC(Cl)=O,5580,rat,CompTox
 C=CC=O,46,rat,CompTox
 [Na+].[N-]=[N+]=[N-],27,rat,CompTox
+ClC(Cl)=C(Cl)Cl,3420,rat,CompTox
+OC(=O)C1=CC=CC=C1,1700,rat,CompTox
+NC(N)=O,8500,rat,CompTox
+[K+].[C-]#N,7,rat,CompTox
+C[N+]1=CC=C(C=C1)C1=CC=[N+](C)C=C1,57,rat,CompTox
+[H][C@]12C[C@@]3([H])C4=CCO[C@@]5([H])CC(=O)N6C7=C(C=CC=C7)[C@@]1(CCN2C4)[C@]6([H])[C@@]35[H],16,rat,CompTox
+OC1=NC(O)=NC(O)=N1,7700,rat,CompTox
+COP(=O)(OC)OC=C(Cl)Cl,107,rat,CompTox
+CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl,102,rat,CompTox
+CC(C)O,5000,rat,CompTox
