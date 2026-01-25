@@ -30,7 +30,7 @@ CN1CCCC1C1=CN=CC=C1,50,rat,CompTox
 CN1C=NC2=C1C(=O)N(C)C(=O)N2C,367,rat,CompTox
 CCNC1=NC(NC(C)C)=NC(Cl)=N1,3090,rat,CompTox
 Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,88,rat,CompTox
-ClCC=C,450,rat,CompToxClCCl
+ClCC=C,450,rat,CompTox
 ClCCl,1200,rat,CompTox
 OCCO,4000,rat,CompTox
 NC1=CC=C(C=C1)C1=CC=C(N)C=C1,309,rat,CompTox
