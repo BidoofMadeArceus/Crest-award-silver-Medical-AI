@@ -8,3 +8,6 @@ X = np.array([
              ])
 
 Y = np.array([df["LD50_mg_kg_oral"]])
+
+print(X)
+print(Y)
