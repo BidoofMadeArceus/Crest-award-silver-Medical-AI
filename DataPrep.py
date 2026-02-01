@@ -7,10 +7,10 @@ RDLogger.DisableLog("rdApp.warning")
 
 X = np.array([
   make_morgan_fp(mol)
-  for mol in df["mol"]
+  for mol in df["Mol"]
              ])
 
-Y = np.array([df["LD50_mg_kg_oral"]])
+Y = np.array(df["LD50_mg_kg_oral"])
 
 print(X)
 print(Y)
