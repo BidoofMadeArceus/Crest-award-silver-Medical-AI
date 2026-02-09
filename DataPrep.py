@@ -10,7 +10,4 @@ X = np.array([
   for mol in df["Mol"]
              ])
 
-Y = np.array(df["LD50_mg_kg_oral"])
-
-print(X)
-print(Y)
+y = np.array(df["LD50_mg_kg_oral"])
