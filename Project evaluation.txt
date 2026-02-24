@@ -1,7 +1,0 @@
-aim: to create an ai to assist in medicine
-
-objectives:
--research background information of ai use in medicince and healthcare
--research ways to create different types of ai for use in medicine and healthcare
--compile a dataset for training the ai
--evaluate ai model after training
