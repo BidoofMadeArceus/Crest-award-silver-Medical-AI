@@ -1,1 +1,3 @@
+aim: to create an ai to predict the toxicity of substances
 
+purpose: to help with the process of designing medicine via predicting the toxicity before hand
