@@ -1,6 +1,6 @@
-from sklearn.linear_model import RandomForestRegressor
-from TestSplit import X_train
-from TestSplit import y_train
+from sklearn.ensemble import RandomForestRegressor
+from TrainSplit import X_train
+from TrainSplit import y_train
 
 model = RandomForestRegressor(
     n_estimators=200,
