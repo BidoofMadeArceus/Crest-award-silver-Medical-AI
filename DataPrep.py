@@ -10,4 +10,4 @@ X = np.array([
   for mol in df["Mol"]
              ])
 
-y = np.array(df["LD50_mg_kg_oral"])
+y = np.array(log10(df["LD50_mg_kg_oral"]))
