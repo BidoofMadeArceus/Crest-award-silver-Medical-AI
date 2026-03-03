@@ -5,3 +5,5 @@ streamline the process of drug design.
 If you are looking at the dataset and see I have got the toxcicity of a compound wrong please tell me.
 
 note that this project is just a proof of concept and not intended to be fully accurate.
+
+current average error range: ~7-8 times higher or lower
