@@ -5,6 +5,6 @@ predictThis = input("please input valid SMILES code for LD50 prediction: ")
 
 fp = make_morgan_fp(predictThis)
 
-prediction = model.predict(fp)
+prediction = model.predict(fp[0])
 
 print(prediction)
